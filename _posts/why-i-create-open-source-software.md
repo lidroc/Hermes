@@ -34,11 +34,5 @@ I would have never imagined this little game I created four years ago would be u
 
 Stuart was kind enough to send pictures back from the event. He said the kids were estatic and loved my version of the game. By the time they got it working on their machine, it was hard to keep them focused!
 
-<Image
-  alt={`Open Source Software`}
-  src={`/static/images/why-i-create-open-source-software/banner.jpg`}
-  width={4032}
-  height={3024}
-/>
 
 It’s an amazing feeling to make something others find value in. That’s why I create open-source software.
