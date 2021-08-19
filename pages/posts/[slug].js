@@ -4,10 +4,11 @@ import { useRouter } from "next/router";
 import { getPostBySlug, getAllPosts } from "@/lib/api";
 import markdownToHtml from "@/lib/markdownToHtml";
 import Container from "@/components/container";
-import Layout from "@/components/layout";
 import Header from "@/components/header";
-import PostTitle from "@/components/post-title";
+import Layout from "@/components/layout";
 import PostBody from "@/components/post-body";
+import PostHeader from "@/components/post-header";
+import PostTitle from "@/components/post-title";
 
 export default function Post({ post }) {
   const router = useRouter();
